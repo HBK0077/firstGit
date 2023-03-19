@@ -1,2 +1,2 @@
 // 
-console.log(document.getElementsByClassName("list-group-item"));
+console.log(document.getElementsByTagName("li"));
