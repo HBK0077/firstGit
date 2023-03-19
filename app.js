@@ -1,1 +1,2 @@
-console.log("GIT HUB");
+// 
+console.log(document.getElementsByClassName("list-group-item"));
